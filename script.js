@@ -70,10 +70,10 @@ function showQuestions(index){
 
 function optionSelected(answer){
     let userAnswer = answer.textContent;
-    let correctAnswer = question[questionCount].answer;
+    let correctAnswer = questions[questionCount].answer;
     let allOptions = optionList.children;
 
- 
+
     if (userAnswer === correctAnswer){
         answer.classList.add('correct');
         userScore += 1;

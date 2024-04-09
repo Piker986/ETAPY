@@ -1,0 +1,134 @@
+Dokumentacja Projektu - Quiz (Wersja Alpha 0.1)
+Opis Projektu
+Projekt Quiz w wersji Alpha 0.1 prezentuje prostą stronę internetową umożliwiającą rozpoczęcie interaktywnego quizu. Strona zawiera nagłówek z nawigacją, sekcję "Home" z informacjami o quizie oraz prosty popup z zasadami quizu.
+
+Funkcje Wersji Alpha 0.1
+Nagłówek i Nawigacja:
+
+-Nagłówek posiada logo "Quiz" i nawigację z sekcjami: "Home", "About", "Services", "Contact".
+-Aktywna sekcja "Home" oznaczona jako "active".
+
+Stylizacja CSS:
+
+-Wykorzystano czcionkę "Poppins" z Google Fonts.
+-Stylizacja nagłówka z przezroczystym tłem, efektem cienia na logo, a nawigacją reagującą na interakcję.
+Sekcja "Home":
+
+-Sekcja "Home" zawiera nagłówek, opis oraz przycisk "Rozpocznij Quiz" z efektem hover.
+
+Popup Zasad Quizu:
+
+-Prosty popup z zasadami quizu zawierający nagłówek, informacje oraz przyciski "Wyjdź z Quizu" i "Kontynuuj".
+
+###################################################################
+Dokumentacja Projektu - Quiz (Wersja Alpha 0.2)
+Opis Projektu
+Projekt Quiz w wersji Alpha 0.2 wprowadza kilka istotnych zmian wizualnych i funkcjonalnych. Zmieniono kolorystykę tła, dodano efekty wizualne, sekcję "Quiz", oraz poprawiono interakcję z użytkownikiem.
+
+Nowe Funkcje i Zmiany
+Stylizacja i Responsywność:
+
+-Kolor tła strony został zmieniony na granatowy (#09001d).
+-Dodano efekt blur do sekcji "Home" po aktywacji przycisku "Rozpocznij Quiz".
+
+Popup Zasad Quizu:
+
+-Popup został odświeżony pod względem wyglądu i funkcjonalności.
+-Dodano efekt wejścia/wyjścia oraz przyciski "Kontynuuj" i "Wyjdź z Quizu".
+
+Sekcja Quizu:
+
+-Dodano nową sekcję "Quiz" z zielonym tłem (seagreen)
+
+Skrypty JavaScript:
+
+-Usunięto zbędne powtórzenia skryptu JavaScript.
+-Dodano skrypty obsługujące aktywację i deaktywację popupu oraz efekt blur w sekcji "Home".
+
+#####################################################################
+Dokumentacja Projektu - Quiz (Wersja Alpha 0.4)
+Opis Projektu
+Wersja Alpha 0.4 projektu Quiz wprowadza kluczowe zmiany, dodając sekcję quizu, strukturę pytań, oraz poprawiając interakcję użytkownika. Dodano dynamiczne przemieszczanie się między pytaniami, a także poprawiono estetykę i responsywność.
+
+Nowe Funkcje i Zmiany
+Struktura Pytań:
+
+-Dodano sekcję quizu z miejscem na pytania, odpowiedzi i przycisk "Dalej".
+-Dynamiczne przemieszczanie się między pytaniami.
+
+Stylizacja i Responsywność:
+
+-Aktualizacja tła strony na granatowy (#09001d).
+-Dodanie efektu gradientowego na nagłówku pytania w sekcji quizu.
+
+Poprawiona Interakcja:
+
+-Aktywacja sekcji quizu po kliknięciu "Rozpocznij Quiz".
+-Przygotowanie interakcji przycisku "Dalej" do przemieszczania się między pytaniami.
+
+Skrypty JavaScript:
+
+-Zaimplementowanie logiki przemieszczania się między pytaniami.
+-Poprawki w obszarze aktywacji sekcji quizu.
+##############################################
+
+Dokumentacja Projektu - Quiz (Wersja Alpha 0.5)
+
+Opis Projektu:
+
+Wersja Alpha 0.5 projektu Quiz kontynuuje rozwój, wprowadzając kolejne funkcje i poprawki. Quiz umożliwiający sprawdzenie wiedzy z obszaru programowania obiektowego i zasad CLEAN CODE.
+
+Nowe Funkcje i Zmiany:
+
+Struktura Pytań:
+
+-Dodano pytań związanych z Clean Code.
+-Rozszerzenie sekcji quizu o dodatkowe informacje, takie jak wynik.
+-Ulepszenia wizualne w sekcji pytań.
+
+Interakcje i Nawigacja:
+
+-Udoskonalenie interakcji przycisku "Dalej" w sekcji quizu.
+-Poprawki w obszarze nawigacji między sekcjami.
+
+Stylizacja i Responsywność:
+
+-Aktualizacja tła strony na kolor granatowy (#09001d).
+-Dodanie efektu gradientowego do nagłówka pytania w sekcji quizu.
+-Optymalizacja responsywności strony dla różnych urządzeń.
+
+Skrypty JavaScript:
+
+-Dodanie logiki ładowania pytań i odpowiedzi.
+-Implementacja funkcji sprawdzania poprawności udzielonych odpowiedzi.
+-Dodano funkcjonalność dynamicznego przemieszczania się między pytaniami.
+
+
+########################################################
+Dokumentacja Projektu - Quiz (Wersja Alpha 0.8)
+
+Opis Projektu:
+
+Wersja Alpha 0.8 projektu Quiz przynosi kolejne usprawnienia oraz nowe funkcje. Quiz, skoncentrowany na zasadach programowania obiektowego i zasadach CLEAN CODE, został rozbudowany o elementy wizualne i interaktywne, aby zapewnić jeszcze lepsze doświadczenie użytkownika.
+
+Nowe Funkcje i Zmiany:
+
+Interaktywny Quiz:
+
+-Dodano możliwość wyboru odpowiedzi przez użytkownika.
+-Oznaczenie poprawnych i błędnych odpowiedzi.
+-Dynamiczne wyświetlanie wyniku oraz numeru aktualnego pytania.
+-Rozbudowa Sekcji Wyników:
+
+-Po zakończeniu quizu, użytkownik może zobaczyć podsumowanie wyniku.
+-Procentowy wynik uzyskany przez użytkownika.
+-Możliwość ponownego rozpoczęcia quizu lub powrotu do strony głównej.
+Responsywny Design:
+
+-Dostosowanie strony Quiz do różnych rozdzielczości ekranów.
+-Poprawa estetyki i czytelności interfejsu użytkownika.
+Poprawki i Usprawnienia:
+
+-Naprawiono błędy związane z nawigacją i interakcją.
+-Zoptymalizowano kod JavaScript dla lepszej wydajności.
+- Naprawiono błędnych jakies

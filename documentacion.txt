@@ -131,4 +131,4 @@ Poprawki i Usprawnienia:
 
 -Naprawiono błędy związane z nawigacją i interakcją.
 -Zoptymalizowano kod JavaScript dla lepszej wydajności.
--
+-Naprawiono błąd z zaznaczniem odpowiedzi

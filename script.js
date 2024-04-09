@@ -71,6 +71,7 @@ function showQuestions(index){
 function optionSelected(answer){
     let userAnswer = answer.textContent;
     let allOptions = optionList.children;
+    let correctAnswer = questions[questionCount].answer;
 
 
     if (userAnswer === correctAnswer){

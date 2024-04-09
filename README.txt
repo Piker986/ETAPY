@@ -1,0 +1,1 @@
+Prosiłbym od zaczęcia od prezentacji a potem przejść na webowy quiz.

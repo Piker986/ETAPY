@@ -21,9 +21,9 @@ Popup Zasad Quizu:
 -Prosty popup z zasadami quizu zawierający nagłówek, informacje oraz przyciski "Wyjdź z Quizu" i "Kontynuuj".
 
 ###################################################################
-Dokumentacja Projektu - Quiz (Wersja Alpha 0.2)
-Opis Projektu
-Projekt Quiz w wersji Alpha 0.2 wprowadza kilka istotnych zmian wizualnych i funkcjonalnych. Zmieniono kolorystykę tła, dodano efekty wizualne, sekcję "Quiz", oraz poprawiono interakcję z użytkownikiem.
+
+Projekt Quiz w wersji Alpha 0.2 
+wprowadza kilka istotnych zmian wizualnych i funkcjonalnych. Zmieniono kolorystykę tła, dodano efekty wizualne, sekcję "Quiz", oraz poprawiono interakcję z użytkownikiem.
 
 Nowe Funkcje i Zmiany
 Stylizacja i Responsywność:
@@ -45,10 +45,9 @@ Skrypty JavaScript:
 -Usunięto zbędne powtórzenia skryptu JavaScript.
 -Dodano skrypty obsługujące aktywację i deaktywację popupu oraz efekt blur w sekcji "Home".
 
-#####################################################################
-Dokumentacja Projektu - Quiz (Wersja Alpha 0.4)
-Opis Projektu
-Wersja Alpha 0.4 projektu Quiz wprowadza kluczowe zmiany, dodając sekcję quizu, strukturę pytań, oraz poprawiając interakcję użytkownika. Dodano dynamiczne przemieszczanie się między pytaniami, a także poprawiono estetykę i responsywność.
+
+Wersja Alpha 0.4 
+projektu Quiz wprowadza kluczowe zmiany, dodając sekcję quizu, strukturę pytań, oraz poprawiając interakcję użytkownika. Dodano dynamiczne przemieszczanie się między pytaniami, a także poprawiono estetykę i responsywność.
 
 Nowe Funkcje i Zmiany
 Struktura Pytań:
@@ -72,11 +71,10 @@ Skrypty JavaScript:
 -Poprawki w obszarze aktywacji sekcji quizu.
 ##############################################
 
-Dokumentacja Projektu - Quiz (Wersja Alpha 0.5)
 
-Opis Projektu:
 
-Wersja Alpha 0.5 projektu Quiz kontynuuje rozwój, wprowadzając kolejne funkcje i poprawki. Quiz umożliwiający sprawdzenie wiedzy z obszaru programowania obiektowego i zasad CLEAN CODE.
+Wersja Alpha 0.5 projektu 
+Quiz kontynuuje rozwój, wprowadzając kolejne funkcje i poprawki. Quiz umożliwiający sprawdzenie wiedzy z obszaru programowania obiektowego i zasad CLEAN CODE.
 
 Nowe Funkcje i Zmiany:
 
@@ -105,11 +103,9 @@ Skrypty JavaScript:
 
 
 ########################################################
-Dokumentacja Projektu - Quiz (Wersja Alpha 0.8)
 
-Opis Projektu:
-
-Wersja Alpha 0.8 projektu Quiz przynosi kolejne usprawnienia oraz nowe funkcje. Quiz, skoncentrowany na zasadach programowania obiektowego i zasadach CLEAN CODE, został rozbudowany o elementy wizualne i interaktywne, aby zapewnić jeszcze lepsze doświadczenie użytkownika.
+Wersja Alpha 0.8 projektu 
+Quiz przynosi kolejne usprawnienia oraz nowe funkcje. Quiz, skoncentrowany na zasadach programowania obiektowego i zasadach CLEAN CODE, został rozbudowany o elementy wizualne i interaktywne, aby zapewnić jeszcze lepsze doświadczenie użytkownika.
 
 Nowe Funkcje i Zmiany:
 
@@ -132,3 +128,16 @@ Poprawki i Usprawnienia:
 -Naprawiono błędy związane z nawigacją i interakcją.
 -Zoptymalizowano kod JavaScript dla lepszej wydajności.
 -Naprawiono błąd z zaznaczniem odpowiedzi
+
+
+Wersja Alpha 1.0 projektu Quiz 
+przynosi ostateczne poprawki i ulepszenia do interaktywnego quizu dotyczącego zasad programowania obiektowego i Clean Code. 
+Końcowy projekt jest zoptymalizowany, responsywny i oferuje bogate doświadczenie użytkownika dzięki dynamicznemu przemieszczaniu się między pytaniami, automatycznemu oznaczaniu poprawnych i błędnych odpowiedzi, a także szczegółowemu podsumowaniu wyników na końcu quizu.
+
+
+Nowe funkcje i zmiany:
+
+-Poprawione funkcje przycisków nawigacyjnych, w tym continueBtn i tryAgainBtn.
+-Udoskonalono zarządzanie stanami quizu i wyników.
+-Poprawiono logikę odświeżania pytań, odpowiedzi i wyników.
+-Usunięto błąd związany z zaznaczaniem odpowiedzi.

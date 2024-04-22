@@ -162,3 +162,4 @@ function showresultBox(){
         }
     }, speed);
 }
+/*FINAL*/

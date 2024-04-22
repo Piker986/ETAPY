@@ -1,1 +1,1 @@
-Prosiłbym od zaczęcia od prezentacji a potem przejść na webowy quiz.
+Aby uruchomić quiz należy dwa razy kliknąc myszką na plik zwany "index.html"
